@@ -1,0 +1,5 @@
+{
+  "name": "Designer Planta baixa para CFTV",
+  "description": "An interactive floor plan design tool to create and manage layouts for security systems, including walls, cameras with field-of-view visualization, and wiring. Users can manage multiple floors and layers, import PDF backgrounds, calculate wiring budgets, and export designs to PDF.",
+  "requestFramePermissions": []
+}
